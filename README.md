@@ -1,7 +1,6 @@
 # Advancing Multi-Secant Quasi-Newton Methods for General Convex Functions
 
 **Mokhwa Lee and Yifan Sun**  
-Stony Brook University, NY, USA  
 Email: mokhwa.lee@stonybrook.edu, yifan.0.sun@gmail.com
 
 ---
