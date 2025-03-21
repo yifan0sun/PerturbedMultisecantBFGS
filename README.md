@@ -41,7 +41,6 @@ A Matlab version of this code is also given in [this repository]([https://github
 ├── data.py         # Synthetic data generator for testing optimization on convex problems.
 ├── models.py       # Simple neural network definition and training/evaluation routines.
 ├── demo.ipynb      # Demo notebook comparing Gradient Descent with our LMSBFGSOptim on synthetic data.
-├── Multisecant_Quasi_Newton__JOTA_.pdf  # The research paper.
 └── README.md       # This file.
 ```
 
