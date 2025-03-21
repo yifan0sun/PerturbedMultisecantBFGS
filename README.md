@@ -90,9 +90,3 @@ For detailed numerical comparisons and theoretical convergence proofs, please re
 
 
 
-
-## Contact
-
-For any questions or feedback, please contact:  
-**Yifan Sun** – yifan.0.sun@gmail.com
-
