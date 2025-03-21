@@ -18,7 +18,7 @@ In this work, we address the challenges of stability and descent in quasi-Newton
 - Attain superlinear convergence rates even in ill-conditioned optimization landscapes.
 - Extend naturally to limited-memory scenarios for large-scale problems.
 
-A Matlab version of this code is also given in [this repository]([URL](https://github.com/Mokhwalee/AlmostMultisecantBFGS))
+A Matlab version of this code is also given in [this repository]([https://github.com/Mokhwalee/AlmostMultisecantBFGS])
 
 ---
 
